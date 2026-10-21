@@ -1,0 +1,14 @@
+{
+"proyecto": {
+"nombre": "Proyecto del Grupo 3",
+"descripcion": "Página del equipo construida en GitHub con ramas, Pull Requests y revisión de código.",
+"version": "1.0.0"
+},
+"integrantes": [
+{ "nombre": "Andres Morales", "rol": "Líder", "github": "andresmasterclass" },
+{ "nombre": "Camilo Molina", "rol": "Frontend", "github": "camilin1025" },
+{ "nombre": "Alejandro Ospina", "rol": "Backend", "github": "Alejo19os" },
+{ "nombre": "Isabella Martinez", "rol": "Tester", "github": "isabelamartinezp15-maker" },
+{ "nombre": "Oscar Leon", "rol": "Documentadora", "github": "Leonoscarandres04" }
+]
+}
