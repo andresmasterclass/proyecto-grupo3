@@ -5,10 +5,10 @@
     "version": "1.0.0"
   },
   "integrantes": [
-    { "nombre": "Andres Morales", "rol": "Líder", "github": "andresmasterclass" },
-    { "nombre": "Camilo Molina", "rol": "Documentadora", "github": "camilin1025" },
+    { "nombre": "Andres Felipe Morales Velosa", "rol": "Líder", "github": "andresmasterclass" },
+    { "nombre": "Johan Camilo Morales Monroy", "rol": "Frontend", "github": "camilin1025" },
     { "nombre": "Alejandro Ospina", "rol": "Backend", "github": "Alejo19os" },
-    { "nombre": "Isabella Martinez", "rol": "Tester", "github": "Isabellamartinezp15" },
-    { "nombre": "Oscar Leon", "rol": "Documentadora", "github": "Leonoscarandres04" }
+    { "nombre": "Isabela Martinez Peñaloza", "rol": "Tester", "github": "Isabelamartinezp15" },
+    { "nombre": "Oscar Andres Leon Galarza", "rol": "Documentador", "github": "leonoscarandres04" }
   ]
 }
