@@ -1,18 +1,18 @@
-# Proyecto del Grupo 1
+# Proyecto del Grupo 3
 
 Página del equipo construida en GitHub con ramas, Pull Requests y revisión de código.
 
-**Página publicada:** https://ORG.github.io/proyecto-equipo/
+**Página publicada:** https://grupo3-poo-2026.github.io/proyecto-grupo3/
 
 ## Integrantes y roles
 
 | Integrante | Rol | Usuario de GitHub |
 |---|---|---|
-| Andres Felipe Morales Velosa | Líder | andrxsmorales389@gmail.com |
-| Johan Camilo Morales Monroy | Frontend | kmilomora322@gmail.com |
-| Oscar Alejandro Ospina Benitez | Backend | oa.ospinabenitez@gmail.com |
-| Isabela Martinez Peñaloza | Tester | isabelamartinezp15@gmail.com |
-| Oscar Andres Leon Galarza | Documentadora | leonoscarandres04@gmail.com|
+| Andres Felipe Morales Velosa | Líder | @andresmasterclass |
+| Johan Camilo Morales Monroy | Frontend | @camilin1025 |
+| Oscar Alejandro Ospina Benitez | Backend | oa.@Alejo19os |
+| Isabela Martinez Peñaloza | Tester | @isabelamartinezp15-maker |
+| Oscar Andres Leon Galarza | Documentador | @leonoscarandres04|
 
 ## Ramas
 
