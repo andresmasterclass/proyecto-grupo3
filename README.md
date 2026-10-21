@@ -10,7 +10,7 @@ Página del equipo construida en GitHub con ramas, Pull Requests y revisión de 
 |---|---|---|
 | Andres Felipe Morales Velosa | Líder | @andresmasterclass |
 | Johan Camilo Morales Monroy | Frontend | @camilin1025 |
-| Oscar Alejandro Ospina Benitez | Backend | oa.@Alejo19os |
+| Oscar Alejandro Ospina Benitez | Backend | @Alejo19os |
 | Isabela Martinez Peñaloza | Tester | @isabelamartinezp15-maker |
 | Oscar Andres Leon Galarza | Documentador | @leonoscarandres04|
 
